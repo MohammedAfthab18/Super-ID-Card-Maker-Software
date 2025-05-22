@@ -26,22 +26,4 @@
 <div align="center"> <a href="https://makerapp.superidcards.com/"><img src="https://makerapp.superidcards.com/assets/images/slick5.png" alt='image' width='800'/></a> </div>
 <div align="center"> <a href="https://makerapp.superidcards.com/"><img src="https://makerapp.superidcards.com/assets/images/slick1.png" alt='image' width='800'/></a> </div>
 
-
-
-### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#e2e6eb](https://via.placeholder.com/10/e2e6eb?text=+) #e2e6eb |
-| Secondary Color | ![#3a3e46](https://via.placeholder.com/10/3a3e46?text=+) #3a3e46 |
-| Accent Color | ![#0a468f](https://via.placeholder.com/10/0a468f?text=+) #0a468f |
-| Text Color | ![#dbbe5f](https://via.placeholder.com/10/dbbe5f?text=+) #dbbe5f |
-
-## :warning: License
-
-Distributed under the no License. See LICENSE.txt for more information.
-
-## :handshake: Contact
-
-Mohammed Afthab - - afthab2282@gmail.com
-
 Project Link: [https://github.com/MohammedAfthab18/Super-ID-Card-Maker-Software](https://github.com/MohammedAfthab18/Super-ID-Card-Maker-Software)
