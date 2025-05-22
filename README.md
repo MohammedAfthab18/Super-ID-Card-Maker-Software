@@ -1,7 +1,7 @@
 <div align='center'>
 
   <video width="636" height="333" autoplay muted loop playsinline>
-    <source src="Super-Id-Video.mp4" type="video/mp4" />
+    <source src="/Super-Id-Video.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
 
