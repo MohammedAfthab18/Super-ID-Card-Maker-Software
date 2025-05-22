@@ -8,7 +8,7 @@
 <h1>Simple Process That Works Like Magic</h1>
 <p>Design and print thousands of professional ID cards in just a few clicks. Whether you're managing data for schools, businesses, events, or organizations — Super ID Card Maker simplifies the entire process from data import to final print.</p>
 
-<h4> <a href=https://makerapp.superidcards.com/>View Demo</a> <span> · </span> <a href="https://github.com/MohammedAfthab18/Super-ID-Card-Maker-Software/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/MohammedAfthab18/Super-ID-Card-Maker-Software/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/MohammedAfthab18/Super-ID-Card-Maker-Software/issues"> Request Feature </a> </h4>
+<h4> <a href=https://makerapp.superidcards.com/>Visit Website</a> </h4>
 
 
 </div>
