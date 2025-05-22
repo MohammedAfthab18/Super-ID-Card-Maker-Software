@@ -55,5 +55,3 @@ Choose from **built-in or system fonts**, apply gradients, background images, sp
 ### 🎨 Background & Stroke Settings  
 - Add **solid colors, gradients, or images** as backgrounds.  
 - Customize **stroke styles** with full control over width, placement, and aesthetics.
-
----
