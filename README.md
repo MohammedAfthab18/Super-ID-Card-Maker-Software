@@ -13,14 +13,6 @@
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-
-
-## :star2: About the Project
 
 ### :camera: Screenshots
 <div align="center"> <a href="https://makerapp.superidcards.com/"><img src="https://makerapp.superidcards.com/assets/images/slick1.png" alt='image' width='800'/></a> </div>
