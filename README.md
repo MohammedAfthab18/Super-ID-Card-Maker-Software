@@ -12,11 +12,3 @@
 
 
 </div>
-
-
-### :camera: Screenshots
-<div align="center"> <a href="https://makerapp.superidcards.com/"><img src="https://makerapp.superidcards.com/assets/images/slick1.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://makerapp.superidcards.com/"><img src="https://makerapp.superidcards.com/assets/images/slick3.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://makerapp.superidcards.com/"><img src="https://makerapp.superidcards.com/assets/images/slick4.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://makerapp.superidcards.com/"><img src="https://makerapp.superidcards.com/assets/images/slick5.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://makerapp.superidcards.com/"><img src="https://makerapp.superidcards.com/assets/images/slick1.png" alt='image' width='800'/></a> </div>
