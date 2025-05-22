@@ -9,6 +9,4 @@
 <p>Design and print thousands of professional ID cards in just a few clicks. Whether you're managing data for schools, businesses, events, or organizations — Super ID Card Maker simplifies the entire process from data import to final print.</p>
 
 <h4> <a href=https://makerapp.superidcards.com/>Visit Website</a> </h4>
-
-
 </div>
